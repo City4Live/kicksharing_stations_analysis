@@ -1,0 +1,3861 @@
+{ 
+  "type": "FeatureCollection",
+  "features": [
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 28528,
+      "name": "Омега",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 583
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.441589,
+            44.598084
+          ],
+          [
+            33.441605,
+            44.598263
+          ],
+          [
+            33.441986,
+            44.598252
+          ],
+          [
+            33.441957,
+            44.598079
+          ],
+          [
+            33.441589,
+            44.598084
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 17200,
+      "name": "метро",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1424
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.457741,
+            44.56975
+          ],
+          [
+            33.457392,
+            44.569788
+          ],
+          [
+            33.457323,
+            44.569372
+          ],
+          [
+            33.45773,
+            44.569322
+          ],
+          [
+            33.457741,
+            44.56975
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 15551,
+      "name": "Парковка 115",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1308
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.475978,
+            44.592446
+          ],
+          [
+            33.476321,
+            44.592087
+          ],
+          [
+            33.476589,
+            44.592118
+          ],
+          [
+            33.476385,
+            44.592538
+          ],
+          [
+            33.475978,
+            44.592446
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 18671,
+      "name": "Смотровая учкуевка",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 885
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.541166,
+            44.640565
+          ],
+          [
+            33.541525,
+            44.640641
+          ],
+          [
+            33.541621,
+            44.64038
+          ],
+          [
+            33.541259,
+            44.640308
+          ],
+          [
+            33.541166,
+            44.640565
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 22578,
+      "name": "херсонес",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 816
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.494643,
+            44.60853
+          ],
+          [
+            33.494858,
+            44.608603
+          ],
+          [
+            33.494552,
+            44.608924
+          ],
+          [
+            33.494326,
+            44.608874
+          ],
+          [
+            33.494643,
+            44.60853
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 10338,
+      "name": "555",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1044
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.456287,
+            44.608363
+          ],
+          [
+            33.45663,
+            44.608496
+          ],
+          [
+            33.456603,
+            44.608782
+          ],
+          [
+            33.456281,
+            44.608782
+          ],
+          [
+            33.456287,
+            44.608363
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 18796,
+      "name": "3356",
+      "description": "",
+      "type": "finish_allow",
+      "radius": 40,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 4804
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        33.539565,
+        44.642666
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 18797,
+      "name": "755",
+      "description": "",
+      "type": "finish_allow",
+      "radius": 31,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 2885
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        33.538637,
+        44.64493
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 18798,
+      "name": "755",
+      "description": "",
+      "type": "finish_allow",
+      "radius": 28,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 2354
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        33.455209,
+        44.608297
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 17799,
+      "name": "Аквамарин",
+      "description": "",
+      "type": "finish_allow",
+      "radius": 13,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 507
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        33.458787,
+        44.609071
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 19612,
+      "name": "балаклава",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1108
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.599508,
+            44.502088
+          ],
+          [
+            33.599654,
+            44.501713
+          ],
+          [
+            33.599934,
+            44.501745
+          ],
+          [
+            33.599825,
+            44.502164
+          ],
+          [
+            33.599508,
+            44.502088
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 19613,
+      "name": "набережная",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1303
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.599491,
+            44.500599
+          ],
+          [
+            33.599641,
+            44.500378
+          ],
+          [
+            33.600022,
+            44.500538
+          ],
+          [
+            33.59978,
+            44.500825
+          ],
+          [
+            33.599485,
+            44.500764
+          ],
+          [
+            33.599491,
+            44.500599
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 22560,
+      "name": "Ахматова",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 949
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.485116,
+            44.603691
+          ],
+          [
+            33.485148,
+            44.603233
+          ],
+          [
+            33.485395,
+            44.603225
+          ],
+          [
+            33.485363,
+            44.603645
+          ],
+          [
+            33.485116,
+            44.603691
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 26466,
+      "name": "Камыши",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1863
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.460031,
+            44.568546
+          ],
+          [
+            33.460643,
+            44.568565
+          ],
+          [
+            33.460686,
+            44.568233
+          ],
+          [
+            33.460037,
+            44.56821
+          ],
+          [
+            33.460031,
+            44.568546
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 27010,
+      "name": "Солдатский",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 225
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.431655,
+            44.596522
+          ],
+          [
+            33.431539,
+            44.596447
+          ],
+          [
+            33.43167,
+            44.596316
+          ],
+          [
+            33.431793,
+            44.596358
+          ],
+          [
+            33.431655,
+            44.596522
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 15532,
+      "name": "145",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 578
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.454434,
+            44.59712
+          ],
+          [
+            33.454882,
+            44.597435
+          ],
+          [
+            33.454989,
+            44.59737
+          ],
+          [
+            33.454549,
+            44.597049
+          ],
+          [
+            33.454434,
+            44.59712
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 28652,
+      "name": "Античный",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 114
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.443038,
+            44.594576
+          ],
+          [
+            33.443189,
+            44.59463
+          ],
+          [
+            33.44323,
+            44.594559
+          ],
+          [
+            33.44308,
+            44.594505
+          ],
+          [
+            33.443038,
+            44.594576
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 19222,
+      "name": "парковка 1000",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 573
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.459239,
+            44.597272
+          ],
+          [
+            33.459566,
+            44.597299
+          ],
+          [
+            33.459593,
+            44.597104
+          ],
+          [
+            33.459244,
+            44.597085
+          ],
+          [
+            33.459239,
+            44.597272
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 18466,
+      "name": "Хрюкина мебельный",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 382
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.524806,
+            44.564237
+          ],
+          [
+            33.524929,
+            44.563981
+          ],
+          [
+            33.525069,
+            44.564019
+          ],
+          [
+            33.524994,
+            44.564256
+          ],
+          [
+            33.524806,
+            44.564237
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 21796,
+      "name": "гагарина",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 368
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.494779,
+            44.601615
+          ],
+          [
+            33.494913,
+            44.601729
+          ],
+          [
+            33.495111,
+            44.601607
+          ],
+          [
+            33.494956,
+            44.601477
+          ],
+          [
+            33.494779,
+            44.601615
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 21797,
+      "name": "пожарова",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 369
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.506461,
+            44.603838
+          ],
+          [
+            33.506564,
+            44.603768
+          ],
+          [
+            33.506864,
+            44.603955
+          ],
+          [
+            33.506768,
+            44.604035
+          ],
+          [
+            33.506461,
+            44.603838
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 5411,
+      "name": "парковка 37",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 2324
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.486049,
+            44.592645
+          ],
+          [
+            33.486403,
+            44.592148
+          ],
+          [
+            33.486854,
+            44.592373
+          ],
+          [
+            33.486419,
+            44.592797
+          ],
+          [
+            33.486049,
+            44.592645
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 5384,
+      "name": "парковка 11",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 905
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.517461,
+            44.613421
+          ],
+          [
+            33.51786,
+            44.613682
+          ],
+          [
+            33.518072,
+            44.613556
+          ],
+          [
+            33.517588,
+            44.613286
+          ],
+          [
+            33.517461,
+            44.613421
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 21831,
+      "name": "колобова 2",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 520
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.459613,
+            44.582658
+          ],
+          [
+            33.459576,
+            44.582807
+          ],
+          [
+            33.459152,
+            44.582742
+          ],
+          [
+            33.459243,
+            44.582612
+          ],
+          [
+            33.459613,
+            44.582658
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 21832,
+      "name": "колобова 3",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 721
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.465355,
+            44.584547
+          ],
+          [
+            33.465542,
+            44.584495
+          ],
+          [
+            33.465825,
+            44.584897
+          ],
+          [
+            33.465697,
+            44.584958
+          ],
+          [
+            33.465355,
+            44.584547
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 20356,
+      "name": "Учкарь низ",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 2128
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.537113,
+            44.644926
+          ],
+          [
+            33.537552,
+            44.644717
+          ],
+          [
+            33.537865,
+            44.645086
+          ],
+          [
+            33.537435,
+            44.645334
+          ],
+          [
+            33.537113,
+            44.644926
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 19237,
+      "name": "парковка 1001",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 705
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.523727,
+            44.600521
+          ],
+          [
+            33.523706,
+            44.600399
+          ],
+          [
+            33.524049,
+            44.60041
+          ],
+          [
+            33.524151,
+            44.600567
+          ],
+          [
+            33.524028,
+            44.600659
+          ],
+          [
+            33.523867,
+            44.600624
+          ],
+          [
+            33.523727,
+            44.600521
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 17479,
+      "name": "парковка 200",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 2822
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.470651,
+            44.579302
+          ],
+          [
+            33.469912,
+            44.580194
+          ],
+          [
+            33.470203,
+            44.580285
+          ],
+          [
+            33.470939,
+            44.579368
+          ],
+          [
+            33.470651,
+            44.579302
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 19359,
+      "name": "Учкуевка правый низ",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1857
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.538354,
+            44.646522
+          ],
+          [
+            33.53835,
+            44.646895
+          ],
+          [
+            33.538823,
+            44.646932
+          ],
+          [
+            33.538974,
+            44.646542
+          ],
+          [
+            33.538354,
+            44.646522
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 15478,
+      "name": "парковка 107",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 440
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.49114,
+            44.599058
+          ],
+          [
+            33.491161,
+            44.598916
+          ],
+          [
+            33.491489,
+            44.59897
+          ],
+          [
+            33.491473,
+            44.599123
+          ],
+          [
+            33.49114,
+            44.599058
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 14642,
+      "name": "144",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 985
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.453805,
+            44.584357
+          ],
+          [
+            33.453992,
+            44.584479
+          ],
+          [
+            33.45443,
+            44.584184
+          ],
+          [
+            33.454467,
+            44.584163
+          ],
+          [
+            33.454441,
+            44.584179
+          ],
+          [
+            33.454464,
+            44.584171
+          ],
+          [
+            33.454274,
+            44.584054
+          ],
+          [
+            33.453805,
+            44.584357
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 14643,
+      "name": "142",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 406
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.514976,
+            44.602209
+          ],
+          [
+            33.5151,
+            44.602091
+          ],
+          [
+            33.515336,
+            44.602164
+          ],
+          [
+            33.515218,
+            44.602332
+          ],
+          [
+            33.514976,
+            44.602209
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 13124,
+      "name": "парковка 99",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 521
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.479168,
+            44.601825
+          ],
+          [
+            33.479287,
+            44.601642
+          ],
+          [
+            33.479507,
+            44.601638
+          ],
+          [
+            33.479628,
+            44.601802
+          ],
+          [
+            33.479168,
+            44.601825
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 5464,
+      "name": "парковка 54",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1071
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.511337,
+            44.590616
+          ],
+          [
+            33.511546,
+            44.590524
+          ],
+          [
+            33.511943,
+            44.590956
+          ],
+          [
+            33.511739,
+            44.591033
+          ],
+          [
+            33.511337,
+            44.590616
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 5466,
+      "name": "парковка 56",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 779
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.50859,
+            44.587892
+          ],
+          [
+            33.508272,
+            44.587658
+          ],
+          [
+            33.508499,
+            44.587537
+          ],
+          [
+            33.50881,
+            44.587816
+          ],
+          [
+            33.50859,
+            44.587892
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 15553,
+      "name": "Парковка 116",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 306
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.446493,
+            44.585824
+          ],
+          [
+            33.446556,
+            44.585699
+          ],
+          [
+            33.446807,
+            44.585744
+          ],
+          [
+            33.446755,
+            44.585869
+          ],
+          [
+            33.446493,
+            44.585824
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 17198,
+      "name": "Фреш Шевченко",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 485
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.459901,
+            44.579651
+          ],
+          [
+            33.460332,
+            44.579778
+          ],
+          [
+            33.460425,
+            44.579687
+          ],
+          [
+            33.459993,
+            44.579545
+          ],
+          [
+            33.459901,
+            44.579651
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 10878,
+      "name": "gvh",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1240
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.456351,
+            44.608297
+          ],
+          [
+            33.456367,
+            44.607915
+          ],
+          [
+            33.456684,
+            44.607934
+          ],
+          [
+            33.456702,
+            44.608394
+          ],
+          [
+            33.456351,
+            44.608297
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 17201,
+      "name": "новоцентр",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 800
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.48659,
+            44.580759
+          ],
+          [
+            33.48712,
+            44.580923
+          ],
+          [
+            33.487049,
+            44.581055
+          ],
+          [
+            33.486484,
+            44.580908
+          ],
+          [
+            33.48659,
+            44.580759
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 5475,
+      "name": "парковка 65",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 538
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.518601,
+            44.579926
+          ],
+          [
+            33.518638,
+            44.57967
+          ],
+          [
+            33.518885,
+            44.579689
+          ],
+          [
+            33.518831,
+            44.579938
+          ],
+          [
+            33.518601,
+            44.579926
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 10884,
+      "name": "ее",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 8031
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.54141,
+            44.638506
+          ],
+          [
+            33.542762,
+            44.639208
+          ],
+          [
+            33.542311,
+            44.639727
+          ],
+          [
+            33.541067,
+            44.638933
+          ],
+          [
+            33.54141,
+            44.638506
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 10885,
+      "name": "65",
+      "description": "",
+      "type": "finish_allow",
+      "radius": 35,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 3678
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        33.538363,
+        44.645147
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 10888,
+      "name": "66",
+      "description": "",
+      "type": "finish_allow",
+      "radius": 33,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 3269
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        33.538245,
+        44.643666
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 5480,
+      "name": "парковка 70",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 689
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.51999,
+            44.575639
+          ],
+          [
+            33.520135,
+            44.575662
+          ],
+          [
+            33.520033,
+            44.576166
+          ],
+          [
+            33.519877,
+            44.576132
+          ],
+          [
+            33.51999,
+            44.575639
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 23417,
+      "name": "ТЦ",
+      "description": "",
+      "type": "finish_allow",
+      "radius": 24,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1729
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        33.522157,
+        44.605842
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 7410,
+      "name": "парковка 104",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1881
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.520457,
+            44.611792
+          ],
+          [
+            33.520367,
+            44.61187
+          ],
+          [
+            33.520391,
+            44.612133
+          ],
+          [
+            33.520187,
+            44.612236
+          ],
+          [
+            33.519823,
+            44.611923
+          ],
+          [
+            33.520244,
+            44.61161
+          ],
+          [
+            33.52035,
+            44.611701
+          ],
+          [
+            33.520457,
+            44.611792
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 23415,
+      "name": "лумумбы",
+      "description": "",
+      "type": "finish_allow",
+      "radius": 21,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1324
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        33.520875,
+        44.609195
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 23418,
+      "name": "Кинотеатр",
+      "description": "",
+      "type": "finish_allow",
+      "radius": 26,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 2030
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        33.521476,
+        44.60797
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 23416,
+      "name": "Октябырьского",
+      "description": "",
+      "type": "finish_allow",
+      "radius": 25,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1876
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        33.52286,
+        44.603877
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 23419,
+      "name": "Ушакова",
+      "description": "",
+      "type": "finish_allow",
+      "radius": 24,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1729
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        33.523616,
+        44.601824
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 23420,
+      "name": "Ушакова БМ",
+      "description": "",
+      "type": "finish_allow",
+      "radius": 19,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1084
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        33.523475,
+        44.602111
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 5445,
+      "name": "58",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1351
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.458143,
+            44.597025
+          ],
+          [
+            33.458294,
+            44.597378
+          ],
+          [
+            33.458626,
+            44.597389
+          ],
+          [
+            33.458657,
+            44.597049
+          ],
+          [
+            33.458374,
+            44.597006
+          ],
+          [
+            33.458143,
+            44.597025
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 5446,
+      "name": "п",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 2582
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.459517,
+            44.603467
+          ],
+          [
+            33.459549,
+            44.602886
+          ],
+          [
+            33.460054,
+            44.602917
+          ],
+          [
+            33.46,
+            44.603514
+          ],
+          [
+            33.459517,
+            44.603467
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 5393,
+      "name": "парковка 20",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1059
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.520108,
+            44.597549
+          ],
+          [
+            33.520322,
+            44.597465
+          ],
+          [
+            33.520591,
+            44.597947
+          ],
+          [
+            33.520355,
+            44.597989
+          ],
+          [
+            33.520108,
+            44.597549
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 5421,
+      "name": "парковка 47",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1737
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.452616,
+            44.595655
+          ],
+          [
+            33.453063,
+            44.595543
+          ],
+          [
+            33.453237,
+            44.595978
+          ],
+          [
+            33.452784,
+            44.596032
+          ],
+          [
+            33.452616,
+            44.595655
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 7258,
+      "name": "парковка 100",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 670
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.488397,
+            44.589796
+          ],
+          [
+            33.488517,
+            44.589601
+          ],
+          [
+            33.488844,
+            44.589693
+          ],
+          [
+            33.488715,
+            44.589895
+          ],
+          [
+            33.488397,
+            44.589796
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 5422,
+      "name": "парковка 48",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1584
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.447334,
+            44.593707
+          ],
+          [
+            33.447527,
+            44.593611
+          ],
+          [
+            33.447844,
+            44.594035
+          ],
+          [
+            33.447538,
+            44.594322
+          ],
+          [
+            33.447334,
+            44.593707
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 5483,
+      "name": "парковка 71",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1795
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.436725,
+            44.584158
+          ],
+          [
+            33.436892,
+            44.584034
+          ],
+          [
+            33.438134,
+            44.584219
+          ],
+          [
+            33.438099,
+            44.584375
+          ],
+          [
+            33.436725,
+            44.584158
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 5392,
+      "name": "парковка 19",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 2864
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.520623,
+            44.603416
+          ],
+          [
+            33.520752,
+            44.603103
+          ],
+          [
+            33.521733,
+            44.603317
+          ],
+          [
+            33.521615,
+            44.603611
+          ],
+          [
+            33.520623,
+            44.603416
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 5395,
+      "name": "парковка 22",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1202
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.514829,
+            44.601629
+          ],
+          [
+            33.514996,
+            44.601388
+          ],
+          [
+            33.515441,
+            44.601564
+          ],
+          [
+            33.515301,
+            44.601801
+          ],
+          [
+            33.514829,
+            44.601629
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 5499,
+      "name": "75",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1006
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.435407,
+            44.587805
+          ],
+          [
+            33.435131,
+            44.587927
+          ],
+          [
+            33.435586,
+            44.588225
+          ],
+          [
+            33.435742,
+            44.588087
+          ],
+          [
+            33.435407,
+            44.587805
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 8721,
+      "name": "677ш",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 861
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.527699,
+            44.594447
+          ],
+          [
+            33.527859,
+            44.59429
+          ],
+          [
+            33.528117,
+            44.594516
+          ],
+          [
+            33.528235,
+            44.594711
+          ],
+          [
+            33.528036,
+            44.594768
+          ],
+          [
+            33.527945,
+            44.594569
+          ],
+          [
+            33.527699,
+            44.594447
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 8125,
+      "name": "111",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1368
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.513773,
+            44.602981
+          ],
+          [
+            33.514051,
+            44.602694
+          ],
+          [
+            33.514363,
+            44.602794
+          ],
+          [
+            33.514062,
+            44.603157
+          ],
+          [
+            33.513799,
+            44.603118
+          ],
+          [
+            33.513773,
+            44.602981
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 5462,
+      "name": "парковка 52",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1081
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.516385,
+            44.591086
+          ],
+          [
+            33.516245,
+            44.590845
+          ],
+          [
+            33.516669,
+            44.590662
+          ],
+          [
+            33.516669,
+            44.591075
+          ],
+          [
+            33.516385,
+            44.591086
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 7459,
+      "name": "k",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 2322
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.460156,
+            44.59091
+          ],
+          [
+            33.459893,
+            44.590693
+          ],
+          [
+            33.460542,
+            44.590291
+          ],
+          [
+            33.460815,
+            44.590578
+          ],
+          [
+            33.460156,
+            44.59091
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 7460,
+      "name": "jk",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1891
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.457361,
+            44.592172
+          ],
+          [
+            33.457636,
+            44.59234
+          ],
+          [
+            33.458267,
+            44.591925
+          ],
+          [
+            33.458021,
+            44.591762
+          ],
+          [
+            33.457361,
+            44.592172
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 7346,
+      "name": "парковка 102",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1112
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.523745,
+            44.616952
+          ],
+          [
+            33.523895,
+            44.616676
+          ],
+          [
+            33.523895,
+            44.616645
+          ],
+          [
+            33.524195,
+            44.61666
+          ],
+          [
+            33.524093,
+            44.616855
+          ],
+          [
+            33.524308,
+            44.61689
+          ],
+          [
+            33.524286,
+            44.617
+          ],
+          [
+            33.524195,
+            44.617012
+          ],
+          [
+            33.523745,
+            44.616952
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 5459,
+      "name": "парковка 50",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1556
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.465607,
+            44.587598
+          ],
+          [
+            33.465419,
+            44.587389
+          ],
+          [
+            33.466165,
+            44.58721
+          ],
+          [
+            33.466251,
+            44.587443
+          ],
+          [
+            33.465929,
+            44.58752
+          ],
+          [
+            33.465607,
+            44.587598
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 15582,
+      "name": "Парковка 184",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 511
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.530671,
+            44.552726
+          ],
+          [
+            33.530848,
+            44.552504
+          ],
+          [
+            33.531041,
+            44.552596
+          ],
+          [
+            33.530908,
+            44.552796
+          ],
+          [
+            33.530671,
+            44.552726
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 15431,
+      "name": "парковка 29",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 251
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.489327,
+            44.59965
+          ],
+          [
+            33.489289,
+            44.599577
+          ],
+          [
+            33.489611,
+            44.599505
+          ],
+          [
+            33.489643,
+            44.599597
+          ],
+          [
+            33.489327,
+            44.59965
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 8418,
+      "name": "парковка 98",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1155
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.524428,
+            44.601518
+          ],
+          [
+            33.524671,
+            44.601272
+          ],
+          [
+            33.52502,
+            44.601603
+          ],
+          [
+            33.524794,
+            44.601732
+          ],
+          [
+            33.524428,
+            44.601518
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 5394,
+      "name": "парковка 21",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 749
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.516353,
+            44.597492
+          ],
+          [
+            33.516206,
+            44.597165
+          ],
+          [
+            33.516426,
+            44.597119
+          ],
+          [
+            33.516603,
+            44.597463
+          ],
+          [
+            33.516353,
+            44.597492
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 15529,
+      "name": "143",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 641
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.454564,
+            44.596433
+          ],
+          [
+            33.454558,
+            44.596583
+          ],
+          [
+            33.454081,
+            44.596533
+          ],
+          [
+            33.454088,
+            44.596384
+          ],
+          [
+            33.454599,
+            44.596432
+          ],
+          [
+            33.454564,
+            44.596433
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 15432,
+      "name": "парковка 100",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 385
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.479081,
+            44.588251
+          ],
+          [
+            33.479226,
+            44.588098
+          ],
+          [
+            33.479531,
+            44.58824
+          ],
+          [
+            33.479469,
+            44.588311
+          ],
+          [
+            33.479279,
+            44.588217
+          ],
+          [
+            33.479199,
+            44.588301
+          ],
+          [
+            33.479081,
+            44.588251
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 14090,
+      "name": "11",
+      "description": "",
+      "type": "finish_allow",
+      "radius": 45,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 6080
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        33.456473,
+        44.599565
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 10819,
+      "name": "123",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1021
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.452066,
+            44.596215
+          ],
+          [
+            33.452182,
+            44.596265
+          ],
+          [
+            33.452623,
+            44.596425
+          ],
+          [
+            33.452704,
+            44.596288
+          ],
+          [
+            33.452237,
+            44.596132
+          ],
+          [
+            33.451996,
+            44.596029
+          ],
+          [
+            33.451867,
+            44.596136
+          ],
+          [
+            33.452066,
+            44.596215
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 14627,
+      "name": "123",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1021
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.452066,
+            44.596215
+          ],
+          [
+            33.452182,
+            44.596265
+          ],
+          [
+            33.452623,
+            44.596425
+          ],
+          [
+            33.452704,
+            44.596288
+          ],
+          [
+            33.452237,
+            44.596132
+          ],
+          [
+            33.451996,
+            44.596029
+          ],
+          [
+            33.451867,
+            44.596136
+          ],
+          [
+            33.452066,
+            44.596215
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 14633,
+      "name": "125",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 773
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.46633,
+            44.594909
+          ],
+          [
+            33.466551,
+            44.595021
+          ],
+          [
+            33.46673,
+            44.594748
+          ],
+          [
+            33.466514,
+            44.594612
+          ],
+          [
+            33.466372,
+            44.594811
+          ],
+          [
+            33.46633,
+            44.594909
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 15458,
+      "name": "Парковка 104",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1115
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.456551,
+            44.603092
+          ],
+          [
+            33.456595,
+            44.602761
+          ],
+          [
+            33.45697,
+            44.60278
+          ],
+          [
+            33.456985,
+            44.603074
+          ],
+          [
+            33.456551,
+            44.603092
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 15641,
+      "name": "201",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 565
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.452869,
+            44.594797
+          ],
+          [
+            33.453067,
+            44.594946
+          ],
+          [
+            33.453314,
+            44.594747
+          ],
+          [
+            33.453132,
+            44.594651
+          ],
+          [
+            33.452869,
+            44.594797
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 5472,
+      "name": "парковка 62",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 645
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.51788,
+            44.584277
+          ],
+          [
+            33.517989,
+            44.583927
+          ],
+          [
+            33.518193,
+            44.583944
+          ],
+          [
+            33.518082,
+            44.584295
+          ],
+          [
+            33.51788,
+            44.584277
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 13125,
+      "name": "парковка 97",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 800
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.452529,
+            44.594995
+          ],
+          [
+            33.452902,
+            44.595224
+          ],
+          [
+            33.452738,
+            44.595371
+          ],
+          [
+            33.452368,
+            44.595131
+          ],
+          [
+            33.452529,
+            44.594995
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 15556,
+      "name": "Парковка 177",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 715
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.520418,
+            44.587687
+          ],
+          [
+            33.520633,
+            44.587702
+          ],
+          [
+            33.520601,
+            44.588077
+          ],
+          [
+            33.520386,
+            44.588061
+          ],
+          [
+            33.520418,
+            44.587687
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 15461,
+      "name": "Парковка 105",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 293
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.523921,
+            44.56719
+          ],
+          [
+            33.524018,
+            44.567011
+          ],
+          [
+            33.524197,
+            44.567067
+          ],
+          [
+            33.524136,
+            44.567199
+          ],
+          [
+            33.523921,
+            44.56719
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 23611,
+      "name": "Пожарова 2",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 311
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.508867,
+            44.605019
+          ],
+          [
+            33.509205,
+            44.6051
+          ],
+          [
+            33.509236,
+            44.605009
+          ],
+          [
+            33.508914,
+            44.604917
+          ],
+          [
+            33.508867,
+            44.605019
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 23612,
+      "name": "Коломийца",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 261
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.521845,
+            44.571438
+          ],
+          [
+            33.521917,
+            44.571313
+          ],
+          [
+            33.52213,
+            44.571353
+          ],
+          [
+            33.522064,
+            44.571477
+          ],
+          [
+            33.521845,
+            44.571438
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 17199,
+      "name": "косарева",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 263
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.464413,
+            44.574536
+          ],
+          [
+            33.464482,
+            44.574459
+          ],
+          [
+            33.464756,
+            44.574589
+          ],
+          [
+            33.464697,
+            44.574666
+          ],
+          [
+            33.464413,
+            44.574536
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 5424,
+      "name": "парковка 49",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 1194
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.443363,
+            44.588814
+          ],
+          [
+            33.443608,
+            44.588697
+          ],
+          [
+            33.443919,
+            44.589112
+          ],
+          [
+            33.443674,
+            44.589219
+          ],
+          [
+            33.443363,
+            44.588814
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 17494,
+      "name": "авторынок",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 359
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.477752,
+            44.579615
+          ],
+          [
+            33.477837,
+            44.579543
+          ],
+          [
+            33.478111,
+            44.579787
+          ],
+          [
+            33.478025,
+            44.57986
+          ],
+          [
+            33.477752,
+            44.579615
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 23615,
+      "name": "Лебедя",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 228
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.527538,
+            44.559727
+          ],
+          [
+            33.52764,
+            44.559543
+          ],
+          [
+            33.527779,
+            44.559555
+          ],
+          [
+            33.527677,
+            44.559731
+          ],
+          [
+            33.527538,
+            44.559727
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 23616,
+      "name": "Челнокова",
+      "description": "",
+      "type": "finish_allow",
+      "radius": null,
+      "style": {
+        "color": "#726FFC",
+        "fillColor": "#726FFC",
+        "opacity": 0.5,
+        "fillOpacity": 0.6
+      },
+      "area": 694
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.436496,
+            44.598681
+          ],
+          [
+            33.4368,
+            44.598601
+          ],
+          [
+            33.436741,
+            44.598391
+          ],
+          [
+            33.43637,
+            44.598468
+          ],
+          [
+            33.436496,
+            44.598681
+          ]
+        ]
+      ]
+    }
+  }
+]
+}
